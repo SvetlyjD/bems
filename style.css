@@ -510,13 +510,13 @@ margin-top: 35.35px;
 @media(max-width:768px){
    
     .dreams__header_logo_text {
-        margin-top: 7.5vh;
+        margin-top: 46px;
         margin-left: 6.3vw;
         font-size: 18px;
     }
 
     .dreams__header_menu_login {
-        margin-top: 9.7%;
+        margin-top: 48px;
         margin-left: 23.79em;
     }
 
@@ -525,7 +525,7 @@ margin-top: 35.35px;
         justify-content: center;
         align-items: center;
         margin-left: 3vw;
-        margin-top: 6.3vh;
+        margin-top: 38.6px;
         width: 85px;
         height: 32px;
         font-size: 13px;
@@ -535,24 +535,24 @@ margin-top: 35.35px;
 
     .dreams__main_header_text {
         text-align: center;
-        margin-top: 22.9vh;
+        margin-top: 140px;
         max-width: 62vw;
         margin-left: 2px;
     }
 
     .dreams__main_text_text {
-        margin-top: 4.9vh;
+        margin-top: 28px;
         margin-left: 3.3vw;
         font-family: "Roboto";
     }
 
 .dreams__main_button_text{
-    margin-top: 5.3vh;
+    margin-top: 32.5px;
 }
 
 .main__dreams{
     width: 102%;
-    height: 115vh;
+    height: 700px;
 }
 
 .works__main {
@@ -564,7 +564,7 @@ margin-top: 35.35px;
 }
 
 .works__header_text {
-    margin-top: 15.2vh;
+    margin-top: 93.2px;
     margin-left: 24px;
     font-size: 22px;
 }
@@ -573,7 +573,7 @@ margin-top: 35.35px;
     color: white;
     margin-top: 43px;
     width: 235px;
-    height: 65.5vh;
+    height: 400px;
     margin-left: 20px;
     border-radius: 2px;
 }
@@ -582,14 +582,14 @@ margin-top: 35.35px;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 34.9vh;
+    margin-top: 215px;
 }
 
 .works_item__header_text {
     font-size: 24px;
     width: 205px;
     font-family: "MontserratBold";
-    margin-top: 2vh;
+    margin-top: 12.2px;
 }
 
 .works_item__text_text {
@@ -600,7 +600,7 @@ margin-top: 35.35px;
 }
 
 .works_item__button_text2 {
-    margin-top: 42.5vh;
+    margin-top: 260px;
 }
 
 .partners_header_text {
@@ -617,7 +617,7 @@ margin-top: 35.35px;
 }
 
 .partners_item {
-    margin-top: 5.4vh;
+    margin-top: 33px;
     width: 237px;
     height: 37.1vh;
     display: block;
@@ -629,13 +629,13 @@ margin-top: 35.35px;
     margin-left: 4px;
     font-family: 'Roboto';
     font-size: 14px;
-    margin-top: 2.5vh;
+    margin-top: 15px;
     width: 29vw;
 }
 
 .partners__button_text {
     display: flex;
-    margin-top: 47px;
+    margin-top: 51px;
     font-size: 14px;
     font-family: 'MontserratBold';
     margin-left: 14px;
@@ -648,7 +648,7 @@ margin-top: 35.35px;
 }
 
 .ideas__header_text {
-    margin-top: 15.7vh;
+    margin-top: 96px;
     font-size: 22px;
     font-family: 'MontserratBold';
     margin-left: 15px;
@@ -665,7 +665,7 @@ margin-top: 35.35px;
 
 .ideas_item {
     width: 234px;
-    height: 50.4vh;
+    height: 307px;
 }
 
 table{
@@ -679,14 +679,14 @@ tbody{
 }
 
 .interests__header_text {
-    margin-top: 12.3vh;
+    margin-top: 75.4px;
     font-size: 22px;
     font-family: 'MontserratBold';
     margin-left: 12px;
 }
 
 .interests__text_text {
-    margin-top: 5.5vh;
+    margin-top: 33.7px;
     font-size: 18px;
     margin-left: 13px;
     font-family: 'Roboto';
@@ -695,7 +695,7 @@ tbody{
 .interests__main {
     display: flex;
     justify-content: center;
-    margin-top: 7vh;
+    margin-top: 43px;
 }
 
 .interests__main_input input {
@@ -717,7 +717,7 @@ tbody{
     background: orangered;
     margin-top: -7px;
     border-radius: 30px;
-    margin-bottom: 16.55vh;
+    margin-bottom: 101px;
 }
 
 .footer__main_logo {
@@ -730,7 +730,7 @@ tbody{
 
 .footer__main_company {
     margin-left: 14.5vw;
-    height: 19vh;
+    height: 116px;
     margin-top: 5px;
 }
 
@@ -752,14 +752,22 @@ tbody{
 
 .footer__logo_logo {
     margin-left: -5vw;
-    margin-top: 8vh;
+    margin-top: 49px;
 }
+
+.footer__main {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30.35px;
+    width: 70vw;
+}
+
 }
 
 @media(max-width: 321px){
 
     .dreams__header_menu_login{
-        margin-top: 6.3%;
+        margin-top: 55px;
         margin-left: 0em;
     }
 
@@ -770,12 +778,12 @@ tbody{
 
     .dreams__header_menu_signup_text {
        margin-left: 8vw;
-        margin-top: 3.3vh;
+        margin-top: 20px;
         
     }
 
     .dreams__header_menu_login {
-        margin-top: 14.3%;
+        margin-top: 30px;
         margin-left: 5em;
     }
 
@@ -844,7 +852,7 @@ tbody{
 }
 
 .works__header_text {
-    margin-top: 5vh;
+    margin-top: 30px;
     margin-left: 16px;
     font-size: 22px;
     }
@@ -861,7 +869,7 @@ tbody{
         color: white;
         margin-top: 11px;
         width: 300px;
-        height: 39.5vh;
+        height: 240px;
         margin-left: 21px;
         border-radius: 4px;
     }
@@ -869,7 +877,7 @@ tbody{
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: -18.2vh;
+        margin-top: -140px;
     }
 
     .works_item__text_text {
@@ -880,24 +888,24 @@ tbody{
     }
 
     .works_item__button_text2{
-        margin-top: -83px;
+        margin-top: -110px;
     }
 
     .works_item__button_text3{
-        margin-top: -115px;
+        margin-top: -141px;
     }   
 
     .partners_header_text {
         text-align: center;
         max-width: 250px;
-        margin-top: 30px;
+        margin-top: 34px;
         margin-left: -3px;
     }
 
     .partners_item {
-        margin-top: 3vh;
+        margin-top: 18px;
         width: 237px;
-        height: 37.1vh;
+        height: 225px;
         display: block;
         text-align: center;
         margin-left: -1px;
@@ -907,7 +915,7 @@ tbody{
         margin-left: 4px;
         font-family: 'Roboto';
         font-size: 14px;
-        margin-top: 2.5vh;
+        margin-top: 12.2px;
         width: 70vw;
     }
 
@@ -951,7 +959,7 @@ tbody{
 
     .partners__button_text {
         display: flex;
-        margin-top: -16px;
+        margin-top: -13px;
         font-size: 14px;
         font-family: 'MontserratBold';
         margin-left: 14px;
@@ -964,7 +972,7 @@ tbody{
     }
 
     .ideas__header_text {
-        margin-top: 5.6vh;
+        margin-top: 34px;
         font-size: 22px;
         text-align: center;
         font-family: 'MontserratBold';
@@ -972,17 +980,21 @@ tbody{
 
 }
 
+.ideas_item_text {
+    margin-top: 2px;
+}
+
 .table{
     width: 100%;
     display: block;
-    margin-top: -10%;
+    margin-top: 0;
 text-align: center;
 }
 
 tbody {
     width: 110%;
     margin-left: 30px;
-    margin-top: -16px;
+    margin-top: -15px;
 }
 
 td{
@@ -1000,7 +1012,7 @@ tr {
 .table td {
     margin-left: 2vw;
     width: 73vw;
-    height: 28.7vw;
+    height: 174px;
     font-size: 10px;
     font-family: "MontserratBold";
     margin-top: 5px;
@@ -1012,12 +1024,12 @@ tr {
 }
 .ideas_item {
     width: 298px;
-    height: 19.5vh;
-    margin-top: 10px;
+    height: 120px;
+    margin-top: 9px;
 }
 
 .interests__header_text {
-    margin-top: 5.3vh;
+    margin-top: 30px;
     font-size: 22px;
     font-family: 'MontserratBold';
     margin-left: 12px;
@@ -1025,7 +1037,7 @@ tr {
 }
 
 .interests__text_text {
-    margin-top: 2.3vh;
+    margin-top: 13px;
     font-size: 18px;
     margin-left: 13px;
     font-family: 'Roboto';
@@ -1034,7 +1046,7 @@ tr {
 .interests__main {
     display: block;
     text-align: center;
-    margin-top: 3vh;
+    margin-top: 20.2px;
 }
 
 .interests__main_input input {
@@ -1056,18 +1068,24 @@ tr {
     background: orangered;
     margin-top: 10px;
     border-radius: 30px;
-    margin-bottom: 6.55vh;
+    margin-bottom: 39.7px;
+}
+
+.footer {
+    display: block;
+
 }
 
 .footer__main {
+    margin-left: 9px;
     text-align: center;
     flex-wrap: wrap;
-    margin-top: 5vh;
+    margin-top: 30.3px;
     width: 86vw;
 }
 
 .footer__main_logo {
-    margin-left: 13.2vw;
+    margin-left: 27.3vw;
     color: orangered;
     font-size: 17px;
     font-family: 'MontserratBold';
@@ -1076,29 +1094,29 @@ tr {
 
 .footer__main_company {
     margin-left: 14.5vw;
-    height: 8vh;
+    height: 48.5px;
     margin-top: 5px;
 }
 
 .footer__main_company_header_text {
     font-family: 'MontserratBold';
     font-size: 14px;
-    margin-top: 9px;
-    margin-left: -5px;
+    margin-top: 6px;
+    margin-left: 0px;
 }
 
 .footer__main_partners_text {
-    margin-left: 13.4vw;
+    margin-left: 37.4vw;
     font-size: 14px;
     font-family: 'MontserratBold';
-    margin-top: 4px;
+    margin-top: 7px;
 }
 
 .list_item {
-    margin-top: -6px;
+    margin-top: -8px;
     font-family: 'Roboto';
     font-size: 14px;
-    margin-left: 14px;
+    margin-left: 17px;
 }
 
 .footer__main_company_list {
