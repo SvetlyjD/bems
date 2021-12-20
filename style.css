@@ -41,7 +41,7 @@ display: none;
 }
 
 .dreams__header_logo_text{
-    margin-top: 6.5vh;
+    margin-top: 46px;
     margin-left: 16.2vw;
     font-size: 18px;
 }
@@ -52,12 +52,11 @@ display: flex;
 }
 
 .dreams__header_menu_login{
-    margin-top: 6.3%;
+    margin-top: 48px;
     margin-left: 40.6em;
 }
 
 .dreams__header_menu_login_text{
-margin-top: -7%;
 font-size: 13px;
 margin-left:5px;
 }
@@ -72,7 +71,7 @@ margin-left:5px;
     justify-content: center;
     align-items: center;
     margin-left: 1.6vw;
-    margin-top: 5.3vh;
+    margin-top: 37.5px;
     width: 85px;
     height: 32px;
     font-size: 13px;
@@ -94,7 +93,7 @@ justify-content: center;
 
 .dreams__main_header_text{
     text-align: center;
-margin-top: 20.2vh;
+margin-top: 140px;
 max-width: 34vw;
 margin-left: -7px;
 }
@@ -105,7 +104,7 @@ text-align: center;
 }
 
 .dreams__main_text_text{
-margin-top: 4.2vh;
+margin-top: 29.7px;
 margin-left: 1vw;
 font-family: "Roboto";
 }
@@ -121,7 +120,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 font-size: 14px;
-margin-top: 4.5vh;
+margin-top: 31.8px;
 margin-left: 0px;
 border-radius: 30px;
 width: 220px;
@@ -143,7 +142,7 @@ font-family: "MontserratBold";
 }
 
 .works__header_text{
-margin-top: 13.2vh;
+margin-top: 93.3px;
 margin-left: -2px;
 font-size: 22px;
 }
@@ -161,7 +160,7 @@ margin-top: -8px;
 color: white;
 margin-top: 43px;
 width: 301px;
-height: 57.5vh;
+height: 400px;
 margin-left: 19px;
 border-radius: 2px;
 background: url(https://us.123rf.com/450wm/southtownboy/southtownboy1708/southtownboy170800119/84965749-milky-way-galaxy-with-stars-and-space-dust-in-the-universe-long-exposure-photograph-with-grain.jpg?ver=6) no-repeat;
@@ -176,7 +175,7 @@ background-size: cover;
 display: block;
 
 margin-left: 20px;
-margin-top: 30vh;
+margin-top: 212.1px;
 max-width: 19vw;
 }
 
@@ -193,7 +192,7 @@ margin-top: 145px;
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top: 33.2vh;
+margin-top: 230px;
 font-size: 10px;
 font-family: "Roboto";
 width: 68px;
@@ -209,7 +208,7 @@ border-radius: 15px;
 .works_item__header_text {
 font-size: 24px;
 font-family: "MontserratBold";
-margin-top: 2vh;
+margin-top: 14.1px;
 }
 
 
@@ -220,7 +219,7 @@ font-size: 14px;
 }
 
 .works_item__button_text2{
-    margin-top: 37.5vh;
+    margin-top: 261px;
 }
 
 
@@ -237,7 +236,7 @@ font-size: 14px;
 
 
 .partners_header_text {
-    margin-top: 96px;
+    margin-top: 94px;
 margin-left: -22px;    
 }
 
@@ -249,9 +248,9 @@ margin-left: -22px;
 }
 
 .partners_item {
-    margin-top: 4.8vh;
+    margin-top: 34px;
     width: 237px;
-    height: 39vh;
+    height: 275.7px;
     display: block;
     text-align: center;
     margin-left: 2px;
@@ -290,7 +289,7 @@ border-radius: 20px;
 .partners_item_header_text {
     text-align: center;
     font-family: 'MontserratBold';
-    margin-top: 2.5vh;
+    margin-top: 17px;
     margin-left: -3px;
     font-size: 14px;
 }
@@ -309,11 +308,12 @@ element.style {
     margin-left: 3px;
     font-family: 'Roboto';
     font-size: 14px;
-    margin-top: 2vh;
+    margin-top: 14.1px;
     width: 14.6vw;
 }
 
 .partners__button{
+    margin-top: -4px;
 display: flex;
 justify-content: center;
 color: orangered;
@@ -344,7 +344,7 @@ justify-content: center;
 }
 
 .ideas__header_text {
-    margin-top: 13.6vh;
+    margin-top: 96.2px;
     font-size: 22px;
     font-family: 'MontserratBold';
     margin-left: -5px;
@@ -354,7 +354,7 @@ justify-content: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 5vh;
+    margin-top: 35.5px;
     border-spacing: 20px;
     margin-top: 16px;
     margin-left: 0px;
@@ -366,14 +366,14 @@ justify-content: center;
 
 .ideas_item {
     width: 299px;
-    height: 44.4vh;
+    height: 307px;
     background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v462-n-130-textureidea_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=9465282a2b0a375f4f5b120d7bbad882) no-repeat;
     background-size: cover;
 border-radius: 3px;
 }
 
 .ideas_item_text{
-    margin-top: -10px;
+    margin-top: -7px;
     
 }
 
@@ -391,7 +391,7 @@ justify-content: center;
 }
 
 .interests__header_text {
-    margin-top: 10.2vh;
+    margin-top: 75px;
     font-size: 22px;
     font-family: 'MontserratBold';
     margin-left: -3px;
@@ -403,7 +403,7 @@ justify-content: center;
 }
 
 .interests__text_text {
-    margin-top: 5vh;
+    margin-top: 35.35px;
     font-size: 18px;
     margin-left: -3px;
     font-family: 'Roboto';
@@ -412,7 +412,7 @@ justify-content: center;
 .interests__main{
 display: flex;
 justify-content: center;
-margin-top: 6vh;
+margin-top: 42.42px;
 }
 
 .interests__main_input input {
@@ -435,9 +435,9 @@ margin-top: 6vh;
     margin-left: 9px;
     height: 40px;
     background: orangered;
-    margin-top: -7px;
+    margin-top: -6.7px;
     border-radius: 30px;
-margin-bottom: 14.55vh;
+margin-bottom: 101px;
 }
 
 .footer{
@@ -449,7 +449,7 @@ justify-content: center;
 .footer__main{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 5vh;
+    margin-top: 35.35px;
     width: 70vw;
 }
 
@@ -467,7 +467,7 @@ justify-content: center;
 
 .footer__main_company {
     margin-left: 7.5vw;
-    height: 19vh;
+    height: 134.33px;
 }
 
 .footer__main_company_header_text {
@@ -479,7 +479,7 @@ justify-content: center;
 
 
 .footer__main_company_list{
-margin-top: 13px;
+margin-top: 11px;
 margin-left: -4px;
 }
 
@@ -502,7 +502,7 @@ margin-top: 7px;
 
 .footer__logo_logo{
 margin-left: -10vw;
-margin-top: 5vh;
+margin-top: 35.35px;
 }
 
 
